@@ -1,0 +1,20 @@
+{
+    "number": 0,
+    "coinbase": "0x0000000000000000000000000000000000000000",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1555515222000,
+    "data": "alienchain",
+    "premine": [
+        {
+            "address": "0x4f3159a184e9a4047b8e428dd81850404be037f2",
+            "amount": 25000000000000000,
+            "note": "dev"
+        }
+    ],
+    "delegates": {
+        "alienchain": "0xef52f7b7018a6b1899dd5f146ee73393079be115"
+    },
+    "config": {
+        
+    }
+}

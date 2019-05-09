@@ -1,0 +1,33 @@
+{
+    "number": 0,
+    "coinbase": "0x0000000000000000000000000000000000000000",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1555515222000,
+    "data": "alienchain",
+    "premine": [
+        {
+            "address": "0xac34ce7579db8c631a55cbb7eff4d7d0eb35327b",
+            "amount": 5000000000000000,
+            "note": "founder"
+        },
+        {
+            "address": "0x5463800d6c349ac7d6580834a57b03248e1a8f2e",
+            "amount": 10000000000000000,
+            "note": "development, marketing, promotion, bounties"
+        },
+        {
+            "address": "0x547efaab013bd1db65cc83984d910b8913f88ff6",
+            "amount": 10000000000000000,
+            "note": "community distribution"
+        }
+    ],
+    "delegates": {
+        "alienchain1": "0x4194e19a9a6ed7e8654ee3c8ff3b3534ae106658",
+        "alienchain2": "0xafe51d0665b436dc2fa0f4962268c58b8fa822a2",
+        "alienchain3": "0x7ca45072d8adb7b14ac1bdcde5bf8ebda31723fe",
+        "alienchain4": "0x6337df42b290627e5c2936fb0a11d4bd7530738f"
+    },
+    "config": {
+        
+    }
+}
