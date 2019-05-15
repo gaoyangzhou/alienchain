@@ -5,6 +5,8 @@ logs/
 output/
 *.data
 alienchain-core/src/gen/
+rebel.xml
+application-dev.yml
 
 ## svn ##
 .svn/
