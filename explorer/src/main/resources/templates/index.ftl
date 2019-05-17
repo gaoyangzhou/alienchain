@@ -37,14 +37,14 @@
 <body>
 <div id="app">
 <el-row :gutter="20">
-    <el-col :span="6"><div class="grid-content bg-purple">ALIENCHAIN</div></el-col>
+    <el-col :span="4"><div class="grid-content bg-purple">ALIENCHAIN</div></el-col>
     <el-col :span="6"><div class="grid-content bg-purple">EXPLORER</div></el-col>
     <el-col :span="6"><div class="grid-content bg-purple">DELEGATER</div></el-col>
     <el-col :span="6"><div class="grid-content bg-purple">FAQ</div></el-col>
 </el-row>
 </div>
 </body>
-<script src="${rc.contextPath}/js/vue.js"></script>
+<script src="${rc.contextPath}/js/vue-2.6.10.js"></script>
 <script src="${rc.contextPath}/js/element-ui.js"></script>
 <script>
     new Vue({
