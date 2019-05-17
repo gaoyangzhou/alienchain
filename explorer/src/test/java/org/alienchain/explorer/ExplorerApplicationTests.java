@@ -11,6 +11,8 @@ public class ExplorerApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+		System.out.println("test 123");
 	}
 
 }
