@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="keywords" contect="alienchain, alienchain explorer">
+    <meta name="description" contect="alienchain is an innovative high-performance blockchain platform, powered by alienchain BFT consensus algorithm.">
     <title>alienchain explorer</title>
 
     <link rel="stylesheet" href="${rc.contextPath}/css/element-ui.css">
