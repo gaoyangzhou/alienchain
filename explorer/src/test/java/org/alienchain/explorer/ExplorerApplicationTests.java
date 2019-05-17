@@ -12,7 +12,13 @@ public class ExplorerApplicationTests {
 	@Test
 	public void contextLoads() {
 
-		System.out.println("test 123");
+		System.out.println("test 12443");
 	}
 
+	@Test
+	public void testToString() {
+
+		System.out.println("2,,3345522");
+
+	}
 }
